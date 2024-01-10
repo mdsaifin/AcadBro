@@ -365,6 +365,9 @@ header nav ul li.current a.m5 {
 #content .inside {
 	padding:22px 20px 0 29px;
 }
+#content .inside .hover1 :hover {
+    transform: scale(1.007); 
+}
 #content .inner_copy, #content .inner_copy a {
 	border:0;
 	float:right;
